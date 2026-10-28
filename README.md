@@ -32,7 +32,7 @@ Utilizo o GitHub para registrar minha evolução acadêmica, compartilhar projet
 - ☉ LLMs
 - ☉ Integração de APIs
 - ☉ Desenvolvimento de Software
-- ☉ Git e GitHub
+- ☉ Git e GitHub 
 
 ## ⎙ Projetos acadêmicos
 
@@ -62,9 +62,9 @@ Busco aprofundar meus conhecimentos em IA Generativa, modelos de linguagem, auto
 
 ## ☑ Benchmarking de Perfis Profissionais
 
-Para melhorar a organização do meu perfil no GitHub, realizei algumas análises comparativas entre 10 perfis de profissionais brasileiros da área de tecnologia. 
+Para melhorar a organização do meu perfil no GitHub, realizei algumas análises comparativas entre 10 perfis de profissionais brasileiros da área de tecnologia: 
 
-
+Conforme pedido na análise, fiz a análise de 10 perfis profissionais no GitHub, consegui perceber diferentes formas de organização e apresentação dentro da plataforma. Cheguei numa das diferentes conclusões que tive que não existia um único padrão considerado ideal para ser categorizado como perfil profissional, pois algunas profissionais utilizam READMEs mais completos e visuais, enquanto outros preferiram um perfil mais objetivo com foco naquilo que eles propõem. No entanto, mesmo com essas diferenças, os perfis mais organizados conseguem mostrar rapidamente quem é o profissional, a área em que eles atuam e os interesses principais deles. Percebi que alguns deles que usaram as badges, ícones e links deixavam o perfil mais atrativo e confesso que não sabia dessa função no GitHub, mas sem poluir muito o README com esses elementos sendo usados de forma equilibrada. A escolha dos perfis dos repositórios fixados, aprensentam os projetos relevantes ou os conhecimentos importantes criados por todos eles. Os nomes dos repositórios também ajudam bastante, cada um mostrando sua clareza e permitindo entender o assunto do projeto antes mesmo de acessá-lo. A documentação deles no README referente aos seus projetos é muito importante, porque facilita a compreensão do objetivo, das tecnologias utilizadas e do funcionamento do sistema. Na análisei que revisei, vi que alguns desses profissionais demonstram experiência principalmente através de contribuições, projetos desenvolvidos e frequência de atividade no GitHub, mesmo sem possuir um README de apresentação muito elaborado. Diante dessas análises que fiz, reconheci a importância de manter o meu perfil organizado e de apresentar somente informações que realmente representem meus conhecimentos atuais.  
 
 ### 〽︎ Perfis analisados
 
