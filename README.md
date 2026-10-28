@@ -1,7 +1,4 @@
-<h1>
-  Opa, me chamo Gabriel Silva
-  <img src="./waving-hand.gif" width="40px" alt="Mão acenando">
-</h1>
+# Opa, me chamo Gabriel Silva
 
 <img src="https://img.shields.io/badge/Estudante%20de%20ADS-007ACC?style=for-the-badge">
 <img src="https://img.shields.io/badge/Foco%20em%20Inteligência%20Artificial-007ACC?style=for-the-badge&logo=openai&logoColor=white">
