@@ -26,13 +26,13 @@ Utilizo o GitHub para registrar minha evolução acadêmica, compartilhar projet
 
 ## ✎ Atualmente estudando
 
-- Fundamentos de Inteligência Artificial
-- IA Generativa
-- Engenharia de Prompt
-- LLMs
-- Integração de APIs
-- Desenvolvimento de Software
-- Git e GitHub
+- ☉ Fundamentos de Inteligência Artificial
+- ☉ IA Generativa
+- ☉ Engenharia de Prompt
+- ☉ LLMs
+- ☉ Integração de APIs
+- ☉ Desenvolvimento de Software
+- ☉ Git e GitHub
 
 ## ⎙ Projetos acadêmicos
 
@@ -64,4 +64,16 @@ Busco aprofundar meus conhecimentos em IA Generativa, modelos de linguagem, auto
 
 Para melhorar a organização do meu perfil no GitHub, realizei algumas análises comparativas entre 10 perfis de profissionais brasileiros da área de tecnologia. 
 
-#
+
+
+### 〽︎ Perfis analisados
+
+Analisei 10 perfis de profissionais da área de tecnologia, observando os seguintes estilos:
+
+- ☉ Apresentação profissional;
+- ☉ Profile README;
+- ☉ Repositórios fixados;
+- ☉ Organização dos projetos;
+- ☉ Documentação;
+- ☉ Tecnologias apresentadas;
+- ☉ Histórico de contribuições.
