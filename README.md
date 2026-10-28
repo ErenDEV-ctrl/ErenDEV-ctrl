@@ -1,6 +1,7 @@
 # Opa, me chamo Gabriel Silva 👋
 
-### ✎ Estudante de Análise e Desenvolvimento de Sistemas | ⌨ Focado em Inteligência Artificial
+<img src="https://img.shields.io/badge/Estudante%20de%20ADS-007ACC?style=for-the-badge">
+<img src="https://img.shields.io/badge/Foco%20em%20Inteligência%20Artificial-007ACC?style=for-the-badge&logo=openai&logoColor=white">
 
 Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, no **2º semestre**, construindo minha trajetória profissional na área de tecnologia.
 
@@ -39,12 +40,19 @@ Registro de projetos e atividades desenvolvidos durante minha graduação em An�
 
 Meus projetos envolvem temas como:
 
-- ⊹ Inteligência Artificial
-- ⊹ Engenharia de Prompt
-- ⊹ Automação
-- ⊹ APIs
-- ⊹ Lógica de Programação
-- ⊹ Desenvolvimento de Sistemas
+<p>
+  <img src="https://img.shields.io/badge/Inteligência%20Artificial-7B2CBF?style=for-the-badge&logo=openai&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Engenharia%20de%20Prompt-2563EB?style=for-the-badge&logo=probot&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Automação-0EA5E9?style=for-the-badge&logo=dependabot&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/APIs-10B981?style=for-the-badge&logo=fastapi&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Lógica%20de%20Programação-F59E0B?style=for-the-badge&logo=codeforces&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Desenvolvimento%20de%20Sistemas-EF4444?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</p>
 
 ## ⚙︎ Objetivo profissional
 
