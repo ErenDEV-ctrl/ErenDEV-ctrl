@@ -1,6 +1,6 @@
 <h1>
   Opa, me chamo Gabriel Silva
-  <img src="./assets/waving-hand.gif" width="35px">
+  <img src="./waving-hand.gif" width="40px" alt="Mão acenando">
 </h1>
 
 <img src="https://img.shields.io/badge/Estudante%20de%20ADS-007ACC?style=for-the-badge">
