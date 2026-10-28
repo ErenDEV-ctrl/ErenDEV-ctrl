@@ -59,3 +59,9 @@ Meus projetos envolvem temas como:
 Meu objetivo é construir uma carreira na área de tecnologia e me especializar profissionalmente em **Inteligência Artificial**.
 
 Busco aprofundar meus conhecimentos em IA Generativa, modelos de linguagem, automação inteligente e Machine Learning e outros assuntos relacionados a TI futuramente. 
+
+## ☑ Benchmarking de Perfis Profissionais
+
+Para melhorar a organização do meu perfil no GitHub, realizei algumas análises comparativas entre 10 perfis de profissionais brasileiros da área de tecnologia. 
+
+#
